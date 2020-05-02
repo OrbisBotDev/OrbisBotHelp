@@ -11,6 +11,7 @@
 ## Version: 1.4.2  
  *2019-11-26--0239*
 - changed the thing to be the thing
+> *I have no idea what actually changed here, but this is the message that drunk me was kind enough to update the changelog with.*
 
 ## Version: 1.4.1  
  *2019-11-17--2016*
