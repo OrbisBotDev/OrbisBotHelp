@@ -1,5 +1,13 @@
 # Changelog
 
+## Version: 1.4.3  
+ *2020-05-03--0020*
+- Overwritten the default Help message to be more useful for players.
+- Depreciated `GetHelp`, replaced with [This](https://github.com/OrbisBotDev/OrbisBotHelp/blob/master/Rolling.md) page, linked from the new Help message.
+- Depreciated `Changelog`, replaced with [This](https://github.com/OrbisBotDev/OrbisBotHelp/blob/master/Changelog.md) page, linked from the new Help message.
+- Added [This](https://github.com/OrbisBotDev/OrbisBotHelp/blob/master/Commands.md) page, a list of all commands, linked from the new Help message.
+- Added a generic depreciated command replacer.
+
 ## Version: 1.4.2  
  *2019-11-26--0239*
 - changed the thing to be the thing
