@@ -6,7 +6,8 @@ A prefix is a character or characters that must be inluded immediately before a 
 
 For OrbisBot you can use any of the following:
 > `/`, `?`, `Please      `, `Please `
-
+###### *There is whitespace after the pleases but github doesn't show it :(*
+ 
 For example `/roll 1d6` or `Please Roll 1d6` would both call the `Roll` command.
 
 ## Basic Rolls
