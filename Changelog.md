@@ -1,5 +1,12 @@
 # Changelog
 
+## Version: 1.6.0  
+ *2020-05-11--0038*
+- Added `BugReport` and `FeatureSuggestion` commands.
+- Updated the melp message to feature the new commands.
+- Rewrote checks for admin commands to accept any admin defined in the config instead of just the bot owner.
+- Changed the `prefix` command from admin to public permission.
+
 ## Version: 1.5.0  
  *2020-05-03--0020*
 - Overwritten the default Help message to be more useful for players.
