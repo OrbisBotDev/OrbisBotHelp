@@ -46,13 +46,25 @@
 > **Permissions:** Admin  
 > **Args:**  
 
-## admin
+## util
+
+### BugReport
+> *Allows the user to report a bug. Reports are saved to the Dev Alerts channel.*  
+> **Alias:** `bug`  
+> **Permissions:** Public  
+> **Args:** *String* - Description of the bug to report. 
+
+### FeatureSuggestion
+> *Allows the user to make a suggestion. Suggestions are saved to the Dev Alerts channel.*  
+> **Alias:** `feature`,`suggest`  
+> **Permissions:** Public  
+> **Args:** *String* - Description of the suggested feature. 
 
 ### prefix
-> *desc*  
+> *list of currently used prefixes.*  
 > **Alias:** *none*  
-> **Permissions:** Admin  
-> **Args:**  
+> **Permissions:** Public  
+> **Args:** *none* 
 
 ### reloadprefix
 > *desc*  
@@ -119,7 +131,7 @@
 > **Permissions:** Public  
 > **Args:**  
 
-## admin
+## util
 
 ### Changelog
 > *desc*  
