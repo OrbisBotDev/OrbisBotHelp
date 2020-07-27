@@ -1,5 +1,9 @@
 # Changelog
 
+## Version: 1.6.1  
+ *2020-07-27--2210*
+- Fixed a bug where the bot occasionally decided not to reconnect after a connection interruption.
+
 ## Version: 1.6.0  
  *2020-05-11--0038*
 - Added `BugReport` and `FeatureSuggestion` commands.
